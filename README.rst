@@ -21,6 +21,8 @@ operations. The messages covered are:
 Besides the operations related to the messages above and OpenFlow handshake,
 this NApp emits basic OpenFlow status events.
 
+*This NApp supports OpenFlow 1.0 and 1.3. OF 1.3 support is experimental.*
+
 ##########
 Installing
 ##########
